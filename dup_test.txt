@@ -1,0 +1,4 @@
+Line via original fd
+Line via dup fd
+Line via dup2 fd
+Line via fcntl fd
